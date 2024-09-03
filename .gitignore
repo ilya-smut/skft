@@ -1,0 +1,4 @@
+*.egg-info
+skft/__pycache__/
+venv/
+.vscode/
