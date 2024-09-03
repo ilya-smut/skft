@@ -7,9 +7,7 @@ SKFT is a tool designed to provide users with a quick overview of football match
 To install SKFT, clone the repository and install it using pip:
 
 ```bash
-git clone https://github.com/ilya-smut/skft.git
-cd skft
-pip install -e .
+pip install skft
 ```
 
 ## Usage
